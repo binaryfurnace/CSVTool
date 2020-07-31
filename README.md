@@ -1,6 +1,9 @@
 # CSVTool
 Project I made for my Java programming class course project. 
 
+Last Build: 07/30/2020
+Latest Version: 1.0.0
+
 About
 This utility is designed for anyone working with tabular data in .csv or .tsv format. The CSV Tool modifies headers (or creates them if non-existent), appends data to existing tables, and reformats tables for export into other software.
 
